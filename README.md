@@ -1,8 +1,18 @@
-# Unichat boilerplace
+# Chitter-Chatter
 
-This is a modded creat-react-app project. It comes with:
+This is react based chating application
 
-- A manifest with correct packages
-- Useless files taken out
-- Needed folder structure
-- CSS
+> > Tools
+
+-> React ChatEngine
+->ChatEngine.io
+
+-> React hooks
+->useState
+->useRef
+->useContext
+->useEffect
+
+-> Firebase
+-> Goolgle Signin
+-> Facebook Signin
